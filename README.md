@@ -16,4 +16,5 @@ Sou apaixonada por tecnologia, design e dados. Estou sempre buscando aprender e 
 ---
 
 ## Contato  
-[WhatsApp]([88] 9 99605497) | [Email](agm.linne@gmail.com) | [Intagram](ya.liine)
+[WhatsApp](https://wa.me/5588999605497) | [Email](mailto:agm.linne@gmail.com) | [Instagram](https://www.instagram.com/ya.liine)
+
