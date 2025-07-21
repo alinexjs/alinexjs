@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou a Aline Garcia! 👋
 
-<!--
-**alinexjs/alinexjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim  
+Sou apaixonada por tecnologia, design e dados. Estou sempre buscando aprender e desenvolver minhas habilidades em programação, computação em nuvem e análise de dados.
 
-Here are some ideas to get you started:
+## Cursos Concluídos: 
+- 🎨 Fundamentos do Design Gráfico – 6h  
+- 🌐 Site Simples com HTML, CSS e JS – 2h  
+- 🤖 Introdução à Engenharia com Arduino – 40h  
+- 💻 Programação Orientada a Objetos – 5h  
+- ☁️ AWS Academy Cloud Foundations – 20h  
+- 📊 Google Data Analytics Professional Certificate – ~180h  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Estou sempre em busca de novos desafios e aprendizados!
+
+---
+
+## Contato  
+[WhatsApp]([88] 9 99605497) | [Email](agm.linne@gmail.com) | [Intagram](ya.liine)
