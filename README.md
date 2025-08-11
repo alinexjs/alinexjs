@@ -1,7 +1,7 @@
 # Olá, eu sou a Aline Garcia! 👋
 
 ## Sobre mim  
-Sou apaixonada por tecnologia, design e dados. Estou sempre buscando aprender e desenvolver minhas habilidades em programação, computação em nuvem e análise de dados.
+Sou apaixonada por tecnologia, design e dados. Estou sempre buscando aprender e desenvolver minhas habilidades no ramo da tecnologia, como design, programação e análise de dados.
 
 ## Cursos Concluídos: 
 - 🎨 Fundamentos do Design Gráfico – 6h  
