@@ -1,16 +1,18 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=150&section=header&text=✨+Welcome+to+my+GitHub+Profile+✨&fontSize=30" />
+<!-- Header animado -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=150&section=header&text=🎮+Welcome+to+Aline's+Pixel+World+🎮&fontSize=30" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=30&center=true&vCenter=true&width=800&lines=Hello,+my+name+is+Aline+Garcia!+👋;I+am+17+years+old;I+love+technology,+design+and+games;Let's+code+and+have+fun!+🎮)](https://git.io/typing-svg)
+<!-- Typing SVG com texto estilo games -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Aline+Garcia!;I+am+17+years+old;I+love+technology+and+games;Let's+code+and+have+fun!+🎮✨)](https://git.io/typing-svg)
 
 ---
 
 <div align="center">
 
-<!-- Mario Kart pixel character PNG -->
-<img src="https://i.imgur.com/OY7RWnK.png" width="120" alt="Pixel Mario Kart Character" />  
+<!-- Mario Kart pixel PNG com efeito de movimento (via GIF simples ou sprite de frames) -->
+<img src="https://i.imgur.com/1t8vUjC.gif" width="120" alt="Mario Kart Pixel Animation" />
 
-<h1 style="color:#1E90FF;">Aline Garcia</h1>
-
+<!-- Nome destacado em estilo pixel art -->
+<h1 style="font-family: 'Press Start 2P', cursive; color:#1E90FF;">Aline Garcia</h1>
 </div>
 
 ---
@@ -18,13 +20,11 @@
 ## 🌟 About Me
 I am passionate about **technology, design, and data**.  
 I love **games, programming, and creating interactive projects**.  
-I am always looking for **new challenges and learning opportunities**.
+✨ Always seeking new challenges and learning opportunities!
 
 ---
 
 ## 🎓 Completed Courses
-Click to expand and see details:  
-
 <details>
 <summary>🎨 Graphic Design Fundamentals – 6h</summary>
 - Learned basic design principles  
@@ -33,8 +33,8 @@ Click to expand and see details:
 
 <details>
 <summary>🌐 Simple Website with HTML, CSS & JS – 2h</summary>
-- Created a small responsive website  
-- Practiced DOM manipulation and styling  
+- Built a responsive website  
+- Practiced DOM manipulation & styling  
 </details>
 
 <details>
@@ -57,7 +57,7 @@ Click to expand and see details:
 
 <details>
 <summary>📊 Google Data Analytics Professional Certificate – ~180h</summary>
-- Data cleaning, visualization, and analysis  
+- Data cleaning, visualization, analysis  
 - Tools: Excel, SQL, Tableau  
 </details>
 
@@ -74,13 +74,15 @@ Click to expand and see details:
 
 ---
 
-## 🎮 Fun / Gaming Style
+## 🎮 Fun / Gaming Section
 <div align="center">
-<!-- You can add more pixel/arcade icons -->
-<img src="https://i.imgur.com/OY7RWnK.png" width="80" alt="Pixel Mario Kart Character" />  
+<!-- Pixel coins, stars, Mario Kart -->
 <img src="https://i.imgur.com/J9J9E7g.png" width="80" alt="Pixel Coin" />  
 <img src="https://i.imgur.com/TlZ2PxQ.png" width="80" alt="Pixel Star" />  
+<img src="https://i.imgur.com/1t8vUjC.gif" width="80" alt="Mario Kart Pixel" />  
 </div>
+
+✨ Collect your coins while coding!  
 
 ---
 
@@ -90,4 +92,3 @@ Click to expand and see details:
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
-
