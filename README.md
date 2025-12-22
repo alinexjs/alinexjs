@@ -47,14 +47,9 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinexjs&layout=compact&hide_border=true&title_color=1E90FF&text_color=1E90FF&bg_color=0d1117" />
 </div>
 
-<div align="center">
-  <!-- Troféus -->
- <img src="https://github-profile-trophy.vercel.app/?username=alinexjs&theme=dracula&column=3&margin-w=15&margin-h=15" />
-</div>
-
 ###
 <p align="center">
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/cute-computer.gif" width="200"/>
+  <img src="https://media.tenor.com/mF4Ne7cI4A4AAAAC/mad-rage.gif" alt="computador fofo" width="180" />
 </p>
 
 
