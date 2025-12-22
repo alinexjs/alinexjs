@@ -49,7 +49,7 @@
 
 ###
 <p align="center">
-  <img src="https://media.tenor.com/mF4Ne7cI4A4AAAAC/mad-rage.gif" alt="computador fofo" width="180" />
+<img src="https://media.tenor.com/XYZ123.gif" alt="computador fofo" width="200" />
 </p>
 
 
