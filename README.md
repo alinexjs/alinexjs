@@ -54,9 +54,9 @@
 
 ###
 
-<div align="center">
-  <img alt="" src="kitty.gif">
-</div>
+<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
