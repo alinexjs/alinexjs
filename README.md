@@ -49,15 +49,13 @@
 
 <div align="center">
   <!-- Troféus -->
-  <img src="https://github-profile-trophy.vercel.app/?username=alinexjs&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+ <img src="https://github-profile-trophy.vercel.app/?username=alinexjs&theme=dracula&column=3&margin-w=15&margin-h=15" />
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
-
-###
-
+<p align="center">
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/cute-computer.gif" width="200"/>
+</p>
 
 
 ###
