@@ -4,7 +4,7 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
 <!-- Texto -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Aline+Garcia;I+am+17+years+old;I+am+from+Boa+Viagem,+CE;I+love+Front-End+and+coffee+☕)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Aline+Garcia;I+am+18+years+old;I+am+from+Boa+Viagem,+CE;I+love+Front-End+and+coffee+☕)](https://git.io/typing-svg)
 
 ###
 
