@@ -1,178 +1,183 @@
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=140&section=header"/>
+<!-- HEADER -->
 
-<h1 align="center">Hi, I'm Aline Garcia</h1>
-
-<p align="center">
-  <strong>Software Development Student · Front-End · UI/UX</strong>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=130&section=header"/>
 
 <p align="center">
-  Creating interfaces, exploring technology and turning ideas into real projects.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=2800&pause=900&color=1E90FF&center=true&vCenter=true&width=650&lines=Hi%2C+my+name+is+Aline+Garcia;Software+Development+Student;Front-End+%26+UI%2FUX;Building+ideas+into+technology" />
 </p>
 
 <p align="center">
-  <a href="mailto:agm.linne@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/ya.linne">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=alinexjs&style=flat-square&color=1E90FF" />
 </p>
 
 <br>
 
-<h2>About me</h2>
+<!-- ABOUT -->
 
-<p>
-I'm a Software Development student interested in Front-End Development,
-UI/UX and technology projects.
-</p>
+<h2 align="center">💻 About me</h2>
 
-<p>
-I enjoy transforming ideas and prototypes into functional interfaces,
-while also exploring IoT, embedded systems and software development
-through academic and practical projects.
-</p>
-
-<ul>
-  <li>Front-End Development</li>
-  <li>UI/UX and prototyping</li>
-  <li>Web applications</li>
-  <li>IoT and embedded systems</li>
-  <li>Academic and research projects</li>
-  <li>Boa Viagem, Ceará, Brazil</li>
-</ul>
-
-<br>
-
-<h2>Technologies & Tools</h2>
-
-<h3>Development</h3>
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="Bootstrap" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45" alt="FastAPI" />
-</p>
-
-<h3>Database & IoT</h3>
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-</p>
-
-<h3>Design & Tools</h3>
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="Figma" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="Canva" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
+<p align="center">
+  Software Development student from Ceará, Brazil.
+  <br>
+  I enjoy Front-End, UI/UX, web development and technology projects.
+  <br>
+  Currently exploring IoT, embedded systems and full-stack development.
 </p>
 
 <br>
 
-<h2>Featured Projects</h2>
+<!-- GITHUB STATS -->
 
-<h3>FotoSync</h3>
-
-<p>
-IoT project focused on the automation and monitoring of photoperiod
-in protected cultivation environments.
-</p>
-
-<p>
-<strong>Technologies:</strong> ESP32 · MQTT · Python · FastAPI · PostgreSQL · React
-</p>
-
-<hr>
-
-<h3>LUNETRAS</h3>
-
-<p>
-Educational web system focused on monitoring and supporting
-children's reading and writing development.
-</p>
-
-<p>
-<strong>Technologies:</strong> React · Vite · JavaScript · HTML · CSS
-</p>
-
-<hr>
-
-<h3>SigeLeite</h3>
-
-<p>
-Technology project developed during my internship, focused on the
-application of IoT and embedded systems in milk production.
-</p>
-
-<p>
-The project combines sensors, RFID and wireless communication to
-support monitoring and automation in dairy production.
-</p>
-
-<p>
-The project also resulted in a scientific article accepted at
-an academic event.
-</p>
-
-<p>
-<strong>Technologies:</strong> ESP32 · RFID · Wi-Fi · IoT · Embedded Systems
-</p>
-
-<br>
-
-<h2>Academic & Research</h2>
-
-<ul>
-  <li>Participation in academic technology projects</li>
-  <li>Experience with IoT and embedded systems</li>
-  <li>Experience with Front-End development and UI/UX</li>
-  <li>Development of practical and research-oriented projects</li>
-  <li>Scientific article accepted from the SigeLeite project</li>
-</ul>
-
-<br>
-
-<h2>GitHub Stats</h2>
+<h2 align="center">📊 GitHub</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=alinexjs&show_icons=true&hide_border=true&theme=transparent&title_color=1E90FF&icon_color=1E90FF"
+    src="https://github-readme-stats.vercel.app/api?username=alinexjs&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=1E90FF&icon_color=1E90FF&text_color=FFFFFF"
     height="170"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinexjs&layout=compact&hide_border=true&theme=transparent&title_color=1E90FF"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinexjs&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=1E90FF&text_color=FFFFFF"
     height="170"
   />
 </p>
 
 <br>
 
+<!-- LANGUAGES -->
+
+<h2 align="center">⚡ Technologies</h2>
+
 <p align="center">
-  <i>Learning, building and turning ideas into technology.</i>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,python,fastapi,postgres,git,github,figma,canva,vscode,arduino,raspberrypi" />
+
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=100&section=footer"/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/MQTT-1E90FF?style=for-the-badge&logo=mqtt&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-1E90FF?style=for-the-badge&logo=espressif&logoColor=white"/>
+
+</p>
+
+<br>
+
+<!-- PROJECTS -->
+
+<h2 align="center">🚀 Projects</h2>
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🌱 FotoSync</h3>
+
+<p align="center">
+IoT system for automated photoperiod control
+and monitoring in protected cultivation.
+</p>
+
+<p align="center">
+ESP32 · MQTT · Python · FastAPI · PostgreSQL · React
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">📚 LUNETRAS</h3>
+
+<p align="center">
+Educational web system focused on children's
+reading and writing development.
+</p>
+
+<p align="center">
+React · Vite · JavaScript · HTML · CSS
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🥛 SigeLeite</h3>
+
+<p align="center">
+IoT project developed during an internship,
+applied to milk production.
+</p>
+
+<p align="center">
+ESP32 · RFID · Wi-Fi · IoT
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🎨 UI/UX</h3>
+
+<p align="center">
+Interface design, prototyping and
+visual development with Figma.
+</p>
+
+<p align="center">
+Figma · Canva · React
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- CONTRIBUTIONS -->
+
+<h2 align="center">📈 Contributions</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=alinexjs&bg_color=0D1117&color=FFFFFF&line=1E90FF&point=FFFFFF&area=true&hide_border=true"
+    width="95%"
+  />
+</p>
+
+<br>
+
+<!-- CONTACT -->
+
+<h2 align="center">🌐 Find me</h2>
+
+<p align="center">
+
+<a href="mailto:agm.linne@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-1E90FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/ya.linne">
+<img src="https://img.shields.io/badge/Instagram-1E90FF?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/alinexjs">
+<img src="https://img.shields.io/badge/GitHub-1E90FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<br>
+
+<!-- FOOTER -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=100&section=footer"
+    width="100%"
+  />
+</p>
