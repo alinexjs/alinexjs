@@ -2,69 +2,69 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
 <!-- Apresentação -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Aline+Garcia;Front-End,+UI%2FUX+%26+Technology+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&vCenter=true&width=1000&lines=Hi,+my+name+is+Aline+Garcia;Front-End,+UI%2FUX+%26+Technology+Enthusiast)](https://git.io/typing-svg)
 
 ###
 
-<div align="center">
+<!-- Tecnologias -->
+<div align="left">
 
-  <!-- Tecnologias -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="55" alt="bootstrap logo" />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo" />
+  <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="55" alt="canva logo" />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo" />
+  <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="css logo" />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo" />
+  <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" alt="react logo" />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo" />
+  <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo" />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" />
+  <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="javascript logo" />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
+  <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python logo" />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" />
+  <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="55" alt="fastapi logo" />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo" />
+  <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" alt="postgresql logo" />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo" />
+  <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="git logo" />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo" />
+  <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55" alt="github logo" />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo" />
+  <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" alt="vscode logo" />
-  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo" />
+  <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="55" alt="figma logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo" />
 
 </div>
 
 ###
 
-<div align="center">
+<!-- Tecnologias IoT -->
+<div align="left">
 
-  <!-- IoT -->
-  <img src="https://img.shields.io/badge/ESP32-1E90FF?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-1E90FF?style=for-the-badge&logo=mqtt&logoColor=white" />
-  <img src="https://img.shields.io/badge/TimescaleDB-1E90FF?style=for-the-badge&logo=timescale&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-1E90FF?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/MQTT-1E90FF?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" />
+  <img src="https://img.shields.io/badge/TimescaleDB-1E90FF?style=for-the-badge&logo=timescale&logoColor=white" alt="TimescaleDB" />
 
 </div>
 
 ###
 
-<div align="center">
+<!-- Contato -->
+<div align="left">
 
-  <!-- Contato -->
   <a href="mailto:agm.linne@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
@@ -81,61 +81,137 @@
 
 ###
 
-<!-- Sobre -->
-<h2 align="center">About me</h2>
+<!-- Sobre mim -->
+<img
+  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+  alt="Ilustração de um computador"
+  width="400px"
+  align="right"
+>
 
-<p align="center">
-  Software Development student passionate about Front-End, UI/UX,
-  web development and technology projects.
+<h2>Sobre mim</h2>
+
+<p>
+  Olá! Meu nome é <strong>Aline Garcia</strong>.
 </p>
 
-<p align="center">
-  I enjoy creating interfaces and exploring the connection between
-  software, IoT and real-world applications.
+<p>
+  Sou estudante de <strong>Análise e Desenvolvimento de Sistemas
+  no IFCE – Campus de Boa Viagem</strong>.
 </p>
+
+<p>
+  Tenho interesse principalmente em <strong>Front-End, UI/UX,
+  desenvolvimento web e tecnologia</strong>.
+</p>
+
+<p>
+  Também venho explorando <strong>IoT, sistemas embarcados e
+  desenvolvimento de aplicações</strong> por meio de projetos
+  acadêmicos e práticos.
+</p>
+
+<p>
+  Gosto de transformar ideias em interfaces e projetos funcionais,
+  unindo desenvolvimento, design e tecnologia.
+</p>
+
+<br clear="right"/>
 
 ###
 
 <!-- Projetos -->
-<h2 align="center">Featured Projects</h2>
+<h2>Projetos em destaque</h2>
 
-<div align="center">
+<table>
+  <tr>
 
-### FotoSync
+    <td width="50%" valign="top">
 
-IoT system focused on automated photoperiod control and monitoring
-in protected cultivation environments.
+      <h3 align="left">FotoSync</h3>
 
-**ESP32 · MQTT · Python · FastAPI · PostgreSQL · TimescaleDB · React**
+      <p>
+        Sistema de IoT focado no controle e monitoramento automatizados
+        do fotoperíodo em ambientes de cultivo protegidos.
+      </p>
 
----
+      <p>
+        <strong>
+          ESP32 · MQTT · Python · FastAPI · PostgreSQL · TimescaleDB · React
+        </strong>
+      </p>
 
-### LUNETRAS
+    </td>
 
-Educational web system focused on monitoring and supporting
-children's reading and writing development.
+    <td width="50%" valign="top">
 
-**React · Vite · JavaScript · HTML · CSS**
+      <h3 align="left">LUNETRAS</h3>
 
----
+      <p>
+        Sistema educacional online focado no monitoramento e apoio
+        ao desenvolvimento da leitura e da escrita infantil.
+      </p>
 
-### SigeLeite
+      <p>
+        <strong>
+          React · Vite · JavaScript · HTML · CSS
+        </strong>
+      </p>
 
-IoT and embedded systems project developed during my internship,
-applied to milk production using sensors, RFID and wireless communication.
+    </td>
 
-**ESP32 · RFID · Wi-Fi · IoT**
+  </tr>
 
-Scientific article accepted from the project.
+  <tr>
 
-</div>
+    <td width="50%" valign="top">
+
+      <h3 align="left">SigeLeite</h3>
+
+      <p>
+        Projeto de IoT e sistemas embarcados desenvolvido durante
+        meu estágio, aplicado à produção de leite utilizando sensores,
+        RFID e comunicação sem fio.
+      </p>
+
+      <p>
+        <strong>
+          ESP32 · RFID · Wi-Fi · IoT
+        </strong>
+      </p>
+
+      <p>
+        Artigo científico aceito a partir do projeto.
+      </p>
+
+    </td>
+
+    <td width="50%" valign="top">
+
+      <h3 align="left">UI/UX & Interfaces</h3>
+
+      <p>
+        Desenvolvimento de interfaces, protótipos e experiências
+        digitais com foco em usabilidade e design.
+      </p>
+
+      <p>
+        <strong>
+          Figma · Canva · React · CSS
+        </strong>
+      </p>
+
+    </td>
+
+  </tr>
+</table>
 
 ###
 
 <!-- GitHub Stats -->
-<h2 align="center">GitHub Stats</h2>
+<h2>GitHub Stats</h2>
 
-<div align="center">
+<div align="left">
 
   <img
     width="49%"
@@ -154,7 +230,9 @@ Scientific article accepted from the project.
 ###
 
 <!-- Gráfico de contribuições -->
-<div align="center">
+<h2>Contributions</h2>
+
+<div align="left">
 
   <img
     width="95%"
@@ -165,12 +243,12 @@ Scientific article accepted from the project.
 
 ###
 
-<!-- Imagem -->
-<p align="center">
+<!-- Ilustração -->
+<p align="left">
   <img
-    src="https://media1.tenor.com/m/bfOEyTxwK40AAAAC/work-computer.gif"
-    alt="computador fofo"
-    width="180"
+    src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+    alt="Ilustração de um computador"
+    width="300px"
   />
 </p>
 
